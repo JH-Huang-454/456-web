@@ -1,0 +1,61 @@
+{
+  "dataVersion": "2026-11-07",
+  "generatedAt": "2026-11-07T09:00:47.404Z",
+  "shards": 64,
+  "jcrYears": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "latestWarningYear": 2025,
+  "totals": {
+    "all": 24035,
+    "journals": 23639,
+    "conferences": 396
+  },
+  "coverage": {
+    "jcr": 23490,
+    "cas": 22232,
+    "xr": 22299,
+    "ccfJournals": 340,
+    "ccfConferences": 394,
+    "ccft": 71,
+    "warningCurrent": 5,
+    "warningEver": 133,
+    "rated": 23966
+  },
+  "matchedByName": {
+    "warning": 133,
+    "ccf": 286,
+    "ccft": 67
+  },
+  "missingFiles": [],
+  "sourceFiles": [
+    "CCF2019-UTF8.csv",
+    "CCF2022-UTF8.csv",
+    "CCF2026-UTF8.csv",
+    "CCFChinese2019-UTF8.csv",
+    "CCFT2022-UTF8.csv",
+    "CCFT2025-UTF8.csv",
+    "FQBJCR2021-UTF8.csv",
+    "FQBJCR2022-UTF8.csv",
+    "FQBJCR2023-UTF8.csv",
+    "FQBJCR2025-UTF8.csv",
+    "GJQKYJMD2020.csv",
+    "GJQKYJMD2021.csv",
+    "GJQKYJMD2023.csv",
+    "GJQKYJMD2024.csv",
+    "GJQKYJMD2025.csv",
+    "JCR2020-UTF8.csv",
+    "JCR2021-UTF8.csv",
+    "JCR2022-UTF8.csv",
+    "JCR2023-UTF8.csv",
+    "JCR2024-UTF8.csv",
+    "JCR2025-UTF8.csv",
+    "XR2026-UTF8.csv",
+    "XR2026Conferences-UTF8.csv"
+  ]
+}

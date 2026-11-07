@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkweb=self.webpackChunkweb||[]).push([["766"],{9767(e){e.exports=JSON.parse('{"name":"journal-pages","id":"default"}')}}]);

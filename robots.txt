@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sci456.com/sitemap.xml
+Sitemap: https://sci456.com/sitemap-journals.xml
